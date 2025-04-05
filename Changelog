@@ -1,1 +1,4 @@
-- Tiger admin has been reborn!
+- Fixed fly being disabled upon dying!
+- Fixed !admin [player] not working!
+- Fixed error with loadstring!
+- Optimized !drawtool's import and export!
