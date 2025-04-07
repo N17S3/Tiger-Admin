@@ -1,8 +1,10 @@
-- Fixed bugs with !arrest
-- Fixed bugs with !roast
-- Fixed !keycard being broken
-- Fixed discord invite
-- Fixed redundant prints
-- Fixed !crashserver breaking
+- Fixed !SpamArrest breaking
+- Fixed !Crashserver hopefully last time
+- Fixed !view when a player leaves
+- Fixed repeating annoying discord invites
+- Fixed bug with !kill [all]
+- Added !InfiniteStamina
+- Improved !FastPunch you can now hold F on PC
+- Changed tiger admin unload sequence
 
 --- Report bugs in the discord server!
