@@ -1,10 +1,7 @@
-- Fixed !SpamArrest breaking
-- Fixed !Crashserver hopefully last time
-- Fixed !view when a player leaves
-- Fixed repeating annoying discord invites
-- Fixed bug with !kill [all]
-- Added !InfiniteStamina
-- Improved !FastPunch you can now hold F on PC
-- Changed tiger admin unload sequence
+- Fixed !ff on/off
+- Fixed !Crashserver
+- Fixed !SpamArrest
+- Added !Punchkill
+- Added !Crash2
 
 --- Report bugs in the discord server!
