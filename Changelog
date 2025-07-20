@@ -1,8 +1,6 @@
-- Patched Vulnerability!
-- Added Support for new games to be added!
-- Improved !CrashServer (somewhat)
-- Fixed !unvirus
-- Fixed !kill all (Not killing neutral team)
-- Recoded !ff
+- Added Premium
+- Changed !safespot -> !saferoom
+- Fixed !admin (fuck roblox's new chat)
+- Fixed !nuke (New chat system ass yo)
 
 --- Report bugs in the discord server! discord.gg/zm2GT6kAFC --- 
