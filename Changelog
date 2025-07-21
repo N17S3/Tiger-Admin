@@ -1,8 +1,13 @@
-- Fixed Broken Menu 
-- Fixed !kill [Team] bug
-- Fixed !Spamarrest breaking
-- Added Unrank notificaion
-- Fixed bug with premium
-- Fixed Commands in chat not working (Maybe?)
+---> Update 3.5 <---
+- Added Version Check (Runs Newest Version)
+- Added/Changed premium commands:
+- !k [Player, All] (!Kick) # Changed
+- !b [Player, All] (!Bring) # Added
+- !f [Player, All] (!Freeze) # Added
+- !unf [Player, All] (!Unfreeze) # Added
+- !c [Player, All] (!Crash) # Added
+- !fl [Player, All] (!Fling) # Added
+- !say [Player, All] [Text] (!Speak) # Added
+- !spamtoilet # Added
 
 --- Report bugs in the discord server! discord.gg/zm2GT6kAFC --- 
