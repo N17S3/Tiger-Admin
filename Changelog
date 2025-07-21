@@ -1,6 +1,8 @@
-- Added Premium
-- Changed !safespot -> !saferoom
-- Fixed !admin (fuck roblox's new chat)
-- Fixed !nuke (New chat system ass yo)
+- Fixed Broken Menu 
+- Fixed !kill [Team] bug
+- Fixed !Spamarrest breaking
+- Added Unrank notificaion
+- Fixed bug with premium
+- Fixed Commands in chat not working (Maybe?)
 
 --- Report bugs in the discord server! discord.gg/zm2GT6kAFC --- 
