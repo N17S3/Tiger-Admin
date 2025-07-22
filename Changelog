@@ -1,13 +1,8 @@
----> Update 3.5 <---
-- Added Version Check (Runs Newest Version)
-- Added/Changed premium commands:
-- !k [Player, All] (!Kick) # Changed
-- !b [Player, All] (!Bring) # Added
-- !f [Player, All] (!Freeze) # Added
-- !unf [Player, All] (!Unfreeze) # Added
-- !c [Player, All] (!Crash) # Added
-- !fl [Player, All] (!Fling) # Added
-- !say [Player, All] [Text] (!Speak) # Added
-- !spamtoilet # Added
+---> Update 3.51! <---
+- Fixed !autofire not working on shotgun
+- Fixed !view
+- Fixed premium bugs
+- Added !equipallitems
+- Improved !ff (recoded the whole thing basically)
 
 --- Report bugs in the discord server! discord.gg/zm2GT6kAFC --- 
