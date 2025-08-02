@@ -1,8 +1,7 @@
----> Update 3.52! <---
-- Fixed !autofire not working on shotgun
-- Fixed !view
-- Fixed premium bugs
-- Added !equipallitems
-- Improved !ff (recoded the whole thing basically)
+---> Update 3.53! <---
+- Fixed !rank
+- Re-Added !removecars (premium)
+- Re-Added !getusers (premium)
+- Re-Added !drawtool (No-Longer premium)
 
 --- Report bugs in the discord server! discord.gg/zm2GT6kAFC --- 
