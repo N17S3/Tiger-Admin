@@ -1,8 +1,9 @@
----> Update 3.533! <---
-- Fixed !ff
-- Fixed !removecars (more stable?)
-- Fixed !getusers (maybe?)
-- Fixed !carspam
-- Fixed !say
+---> Update 3.54! <---
+- Improved !Carspam
+- Improved !Crashserver
+- Improved !View
+- Improved !forcefield
+- Re-added !Jeff
+- Removed Premium
 
 --- Report bugs in the discord server! discord.gg/zm2GT6kAFC --- 
